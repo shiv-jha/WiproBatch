@@ -28,7 +28,8 @@ public class Collections {
 //		arr.remove(1);
 		
 		//This program is for demo
-		
+
+		//This is change from server
 	}
 
 }
