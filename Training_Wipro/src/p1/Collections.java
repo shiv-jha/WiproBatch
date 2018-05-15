@@ -27,7 +27,7 @@ public class Collections {
 //		arr.size();
 //		arr.remove(1);
 		
-		
+		//This program is for demo
 		
 	}
 
