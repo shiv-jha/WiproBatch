@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20749" started-at="2018-05-16T08:12:04Z" finished-at="2018-05-16T08:12:24Z">
+  <suite name="Default suite" duration-ms="59" started-at="2018-05-17T07:43:25Z" finished-at="2018-05-17T07:43:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20749" started-at="2018-05-16T08:12:04Z" finished-at="2018-05-16T08:12:24Z">
-      <class name="p1.DragAndDrop">
-        <test-method status="PASS" signature="dragDrop()[pri:0, instance:p1.DragAndDrop@1810399e]" name="dragDrop" duration-ms="20691" started-at="2018-05-16T13:42:04Z" finished-at="2018-05-16T13:42:24Z">
+    <test name="Default test" duration-ms="59" started-at="2018-05-17T07:43:25Z" finished-at="2018-05-17T07:43:25Z">
+      <class name="ValidationTest">
+        <test-method status="PASS" signature="mobNoLength()[pri:0, instance:ValidationTest@402f32ff]" name="mobNoLength" duration-ms="20" started-at="2018-05-17T13:13:25Z" finished-at="2018-05-17T13:13:25Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dragDrop -->
-      </class> <!-- p1.DragAndDrop -->
+        </test-method> <!-- mobNoLength -->
+      </class> <!-- ValidationTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

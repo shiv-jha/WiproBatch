@@ -19,7 +19,7 @@ public class DragAndDrop {
 	  driver.get("http://jqueryui.com/droppable/");
 	  Thread.sleep(5000);
 	  driver.switchTo().frame(driver.findElement(By.cssSelector(".demo-frame")));
-	  WebElement w1=driver.findElement(By.cssSelector(".ui-draggable"));
+	  WebElement w1=driver.findElement(By.id("draggable"));
 	  WebElement w2=driver.findElement(By.cssSelector(".ui-droppable"));
 	  Actions action = new Actions(driver);
 	  action.dragAndDrop(w1, w2).build().perform();
