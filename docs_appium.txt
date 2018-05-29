@@ -1,0 +1,43 @@
+Appium:
+
+-> Open source tool , which helps us in automating:
+	Native apps
+	Mobile web apps
+	Hybrid apps
+	Native apps
+		-> Calculator
+		-> messaging
+
+	Mobile web
+		accessing website through mobile browser
+
+	Hybrid apps
+		facebook apps
+		flipkart apps
+-> Cross platform
+-> Appium is webserver 
+-> To work with Appium , we need a client . We will be using Java client.
+
+
+Setting up Appium
+1.Install JDK( 7.0 and above)
+2.Set the Path for jdk
+3. Install android sdk
+4.Set new variable 'ANDROID_HOME' 'E:\Android\Appium\sdk'
+5.Set path variable for path 'tools' and 'platform-tools'				E:\Android\Appium\sdk\platform-tools;E:\Android\Appium\sdk\tools
+6.Download and install node js
+7.Install microsoft dot net framework
+	https://www.microsoft.com/en-in/download/details.aspx?id=30653
+	
+8.Download appium client -
+	http://repo1.maven.org/maven2/io/appium/java-client/6.0.0/
+9. Download Appium server
+	http://appium.io/
+10.Download and install Eclipse IDE
+11. Setup Eclipse for Appium
+	
+	
+	
+
+	
+	
